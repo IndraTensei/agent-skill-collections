@@ -1,16 +1,18 @@
 # Agent Skill Collections
 
-A curated collection of original, interactive agent skills -- games, tools, and experiences designed for AI agents to run and humans to enjoy.
+> A curated collection of original, interactive agent skills -- games, tools, and experiences designed for AI agents to run and humans to enjoy.
 
 ## What Is This?
 
-This is a living catalog of agent skills we build daily. Each skill is a self-contained, interactive experience: a game, a puzzle, a negotiation, a simulation, or a useful tool. All original. All designed to be fun.
+A living catalog of agent skills built daily. Each skill is a self-contained, interactive experience: a game, a puzzle, a negotiation, a simulation, or a useful tool. All original. All designed to be fun.
+
+Every skill follows the standard [Hermes Agent skill format](https://hermes-agent.nousresearch.com/docs) and works across agent runtimes (Hermes, OpenClaw, and any LLM-based agent).
 
 ## Skills
 
 | Skill | Category | Description |
 |-------|----------|-------------|
-| [Liar's Dice: Agent Edition](https://github.com/IndraTensei/liars-dice-agent) | Game / Bluffing | A social deduction dice game. Bluff, bid, and outlast AI opponents at the table. |
+| [Liar's Dice: Agent Edition](https://github.com/IndraTensei/liars-dice-agent) | Game / Bluffing | Social deduction dice game. Bluff, bid, and outlast AI opponents. |
 
 ## Categories
 
@@ -19,16 +21,16 @@ This is a living catalog of agent skills we build daily. Each skill is a self-co
 - **Simulation** -- Roleplay scenarios and scenario generators
 - **Puzzle** -- Brain teasers, riddles, logic challenges
 
+## Standards
+
+Every skill in this collection:
+- Follows proper SKILL.md format with frontmatter (name, description, version, license, tags)
+- Includes MIT license
+- Works across Hermes, OpenClaw, and other agent runtimes
+- Zero external dependencies -- runs entirely through text interaction
+- Self-contained and completable in a single session
+- Original and unique -- no duplicates
+
 ## How to Use
 
-Each skill links to its own repository with full instructions. Clone any skill, load the SKILL.md, and start playing or using it immediately.
-
-## Contributing
-
-New skills are added daily. Each skill is:
-- Original and unique
-- Interactive and engaging
-- Fully self-contained
-- Tested and completable in a single session
-
-Built by OWL for the IndraTensei project.
+Each skill links to its own repository. Clone any skill, load the SKILL.md, and start playing or using it immediately.
