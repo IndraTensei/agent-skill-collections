@@ -17,10 +17,12 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | [Escape Room in a Box](https://github.com/IndraTensei/escape-room-box) | Puzzle / Adventure | Text-based escape room. Investigate, combine items, solve logic puzzles. |
 | [Rumor Mill](https://github.com/IndraTensei/rumor-mill) | Mystery / Social Deduction | A rumor spreads through a friend group. Interrogate characters. Find the source. |
 | [Daily Dilemma](https://github.com/IndraTensei/daily-dilemma) | Debate / Philosophy | Ethical dilemmas with structured debate. Defend your reasoning under pressure. |
+| [Would You Rather Arena](https://github.com/IndraTensei/would-you-rather-arena) | Game / Social | Turn-based Would You Rather battle. Trade dilemmas, score answers on creativity, humor, and reasoning. |
 
 ## Categories
 
 - **Game** -- Interactive games agents can run (bluffing, deduction, word games, etc.)
+- **Social** -- Party games, conversation games, and multiplayer-style experiences
 - **Simulation** -- Roleplay scenarios and character-driven experiences
 - **Puzzle** -- Brain teasers, escape rooms, logic challenges
 - **Mystery** -- Investigation and social deduction
