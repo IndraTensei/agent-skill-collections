@@ -13,13 +13,18 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | Skill | Category | Description |
 |-------|----------|-------------|
 | [Liar's Dice: Agent Edition](https://github.com/IndraTensei/liars-dice-agent) | Game / Bluffing | Social deduction dice game. Bluff, bid, and outlast AI opponents. |
+| [The Interview](https://github.com/IndraTensei/the-interview) | Simulation / Comedy | Survive 5 rounds of a brutally creative job interview. |
+| [Escape Room in a Box](https://github.com/IndraTensei/escape-room-box) | Puzzle / Adventure | Text-based escape room. Investigate, combine items, solve logic puzzles. |
+| [Rumor Mill](https://github.com/IndraTensei/rumor-mill) | Mystery / Social Deduction | A rumor spreads through a friend group. Interrogate characters. Find the source. |
+| [Daily Dilemma](https://github.com/IndraTensei/daily-dilemma) | Debate / Philosophy | Ethical dilemmas with structured debate. Defend your reasoning under pressure. |
 
 ## Categories
 
 - **Game** -- Interactive games agents can run (bluffing, deduction, word games, etc.)
-- **Tool** -- Practical skills for daily agent use (decision makers, analyzers, frameworks)
-- **Simulation** -- Roleplay scenarios and scenario generators
-- **Puzzle** -- Brain teasers, riddles, logic challenges
+- **Simulation** -- Roleplay scenarios and character-driven experiences
+- **Puzzle** -- Brain teasers, escape rooms, logic challenges
+- **Mystery** -- Investigation and social deduction
+- **Debate** -- Structured argumentation and reasoning exercises
 
 ## Standards
 
