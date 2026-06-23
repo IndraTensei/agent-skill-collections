@@ -18,8 +18,9 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | [Rumor Mill](https://github.com/IndraTensei/rumor-mill) | Mystery / Social Deduction | A rumor spreads through a friend group. Interrogate characters. Find the source. |
 | [Daily Dilemma](https://github.com/IndraTensei/daily-dilemma) | Debate / Philosophy | Ethical dilemmas with structured debate. Defend your reasoning under pressure. |
 | [Would You Rather Arena](https://github.com/IndraTensei/would-you-rather-arena) | Game / Social | Turn-based Would You Rather battle. Trade dilemmas, score answers on creativity, humor, and reasoning. |
-| [Courtroom Trial](https://github.com/IndraTensei/courtroom-trial) | Simulation / Roleplay | Courtroom trial simulation. Agent is the judge, you are the defense attorney. Present evidence, cross-examine witnesses, win the case. |
-
+|| [Courtroom Trial](https://github.com/IndraTensei/courtroom-trial) | Simulation / Roleplay | Courtroom trial simulation. Agent is the judge, you are the defense attorney. Present evidence, cross-examine witnesses, win the case. |
+|| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
+|
 ## Categories
 
 - **Game** -- Interactive games agents can run (bluffing, deduction, word games, etc.)
@@ -28,6 +29,7 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 - **Puzzle** -- Brain teasers, escape rooms, logic challenges
 - **Mystery** -- Investigation and social deduction
 - **Debate** -- Structured argumentation and reasoning exercises
+- **Creative** -- Worldbuilding, generators, and creative tools
 
 ## Standards
 
