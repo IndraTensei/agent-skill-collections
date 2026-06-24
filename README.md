@@ -19,7 +19,8 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | [Daily Dilemma](https://github.com/IndraTensei/daily-dilemma) | Debate / Philosophy | Ethical dilemmas with structured debate. Defend your reasoning under pressure. |
 | [Would You Rather Arena](https://github.com/IndraTensei/would-you-rather-arena) | Game / Social | Turn-based Would You Rather battle. Trade dilemmas, score answers on creativity, humor, and reasoning. |
 || [Courtroom Trial](https://github.com/IndraTensei/courtroom-trial) | Simulation / Roleplay | Courtroom trial simulation. Agent is the judge, you are the defense attorney. Present evidence, cross-examine witnesses, win the case. |
-|| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
+||| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
+||| [Twenty Questions Deduction](https://github.com/IndraTensei/twenty-questions-deduction) | Game / Deduction | Classic 20 Questions conversation game. Agent thinks of something, user asks yes-or-no questions to guess it within 20 turns. |
 |
 ## Categories
 
