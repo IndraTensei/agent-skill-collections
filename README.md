@@ -21,6 +21,7 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 || [Courtroom Trial](https://github.com/IndraTensei/courtroom-trial) | Simulation / Roleplay | Courtroom trial simulation. Agent is the judge, you are the defense attorney. Present evidence, cross-examine witnesses, win the case. |
 ||| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
 ||| [Twenty Questions Deduction](https://github.com/IndraTensei/twenty-questions-deduction) | Game / Deduction | Classic 20 Questions conversation game. Agent thinks of something, user asks yes-or-no questions to guess it within 20 turns. |
+|| [Cipher Breaker](https://github.com/IndraTensei/cipher-breaker) | Puzzle / Cryptography | Single-shot cipher decoding challenges. Crack Caesar, Atbash, Vigenere, and rail fence ciphers across three difficulty tiers. |
 |
 ## Categories
 
