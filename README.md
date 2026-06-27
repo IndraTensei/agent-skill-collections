@@ -22,8 +22,9 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 ||| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
 ||| [Twenty Questions Deduction](https://github.com/IndraTensei/twenty-questions-deduction) | Game / Deduction | Classic 20 Questions conversation game. Agent thinks of something, user asks yes-or-no questions to guess it within 20 turns. |
 || [Cipher Breaker](https://github.com/IndraTensei/cipher-breaker) | Puzzle / Cryptography | Single-shot cipher decoding challenges. Crack Caesar, Atbash, Vigenere, and rail fence ciphers across three difficulty tiers. |
-|| [Crisis Commander](https://github.com/IndraTensei/crisis-commander) | Simulation / Productivity | Turn-based crisis management simulation. Allocate resources, prioritize threats, and make high-stakes decisions as an Incident Commander under time pressure. |
-|
+||| [Crisis Commander](https://github.com/IndraTensei/crisis-commander) | Simulation / Productivity | Turn-based crisis management simulation. Allocate resources, prioritize threats, and make high-stakes decisions as an Incident Commander under time pressure. |
+||| [Alchemist's Workshop](https://github.com/IndraTensei/alchemist-workshop) | Creative / Simulation | An alchemical potion-brewing simulation. Discover recipes through experimentation, serve mysterious customers, and grow your workshop from dusty shop to legendary atelier. |
+||
 ## Categories
 
 - **Game** -- Interactive games agents can run (bluffing, deduction, word games, etc.)
