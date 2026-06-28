@@ -24,10 +24,11 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 || [Cipher Breaker](https://github.com/IndraTensei/cipher-breaker) | Puzzle / Cryptography | Single-shot cipher decoding challenges. Crack Caesar, Atbash, Vigenere, and rail fence ciphers across three difficulty tiers. |
 ||| [Crisis Commander](https://github.com/IndraTensei/crisis-commander) | Simulation / Productivity | Turn-based crisis management simulation. Allocate resources, prioritize threats, and make high-stakes decisions as an Incident Commander under time pressure. |
 ||| [Alchemist's Workshop](https://github.com/IndraTensei/alchemist-workshop) | Creative / Simulation | An alchemical potion-brewing simulation. Discover recipes through experimentation, serve mysterious customers, and grow your workshop from dusty shop to legendary atelier. |
-||
+|| [Blind Bid Arena](https://github.com/IndraTensei/blind-bid-arena) | Game / Negotiation | A blind auction strategy game. Bid sealed coins on mystery items, bluff and outmaneuver a rival trader across five escalating rounds. |
+|||
 ## Categories
 
-- **Game** -- Interactive games agents can run (bluffing, deduction, word games, etc.)
+- **Game** -- Interactive games agents can run (bluffing, deduction, word games, negotiation, etc.)
 - **Social** -- Party games, conversation games, and multiplayer-style experiences
 - **Simulation** -- Roleplay scenarios and character-driven experiences
 - **Puzzle** -- Brain teasers, escape rooms, logic challenges
