@@ -18,14 +18,15 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | [Rumor Mill](https://github.com/IndraTensei/rumor-mill) | Mystery / Social Deduction | A rumor spreads through a friend group. Interrogate characters. Find the source. |
 | [Daily Dilemma](https://github.com/IndraTensei/daily-dilemma) | Debate / Philosophy | Ethical dilemmas with structured debate. Defend your reasoning under pressure. |
 | [Would You Rather Arena](https://github.com/IndraTensei/would-you-rather-arena) | Game / Social | Turn-based Would You Rather battle. Trade dilemmas, score answers on creativity, humor, and reasoning. |
-|| [Courtroom Trial](https://github.com/IndraTensei/courtroom-trial) | Simulation / Roleplay | Courtroom trial simulation. Agent is the judge, you are the defense attorney. Present evidence, cross-examine witnesses, win the case. |
-||| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
-||| [Twenty Questions Deduction](https://github.com/IndraTensei/twenty-questions-deduction) | Game / Deduction | Classic 20 Questions conversation game. Agent thinks of something, user asks yes-or-no questions to guess it within 20 turns. |
-|| [Cipher Breaker](https://github.com/IndraTensei/cipher-breaker) | Puzzle / Cryptography | Single-shot cipher decoding challenges. Crack Caesar, Atbash, Vigenere, and rail fence ciphers across three difficulty tiers. |
-||| [Crisis Commander](https://github.com/IndraTensei/crisis-commander) | Simulation / Productivity | Turn-based crisis management simulation. Allocate resources, prioritize threats, and make high-stakes decisions as an Incident Commander under time pressure. |
-||| [Alchemist's Workshop](https://github.com/IndraTensei/alchemist-workshop) | Creative / Simulation | An alchemical potion-brewing simulation. Discover recipes through experimentation, serve mysterious customers, and grow your workshop from dusty shop to legendary atelier. |
-|| [Blind Bid Arena](https://github.com/IndraTensei/blind-bid-arena) | Game / Negotiation | A blind auction strategy game. Bid sealed coins on mystery items, bluff and outmaneuver a rival trader across five escalating rounds. |
-|||
+| [Courtroom Trial](https://github.com/IndraTensei/courtroom-trial) | Simulation / Roleplay | Courtroom trial simulation. Agent is the judge, you are the defense attorney. Present evidence, cross-examine witnesses, win the case. |
+| [CultureForge](https://github.com/IndraTensei/cultureforge) | Creative / Worldbuilding | Procedural culture generator. Create original civilizations, factions, and societies with deep detail on values, rituals, politics, taboos, and daily life. |
+| [Twenty Questions Deduction](https://github.com/IndraTensei/twenty-questions-deduction) | Game / Deduction | Classic 20 Questions conversation game. Agent thinks of something, user asks yes-or-no questions to guess it within 20 turns. |
+| [Cipher Breaker](https://github.com/IndraTensei/cipher-breaker) | Puzzle / Cryptography | Single-shot cipher decoding challenges. Crack Caesar, Atbash, Vigenere, and rail fence ciphers across three difficulty tiers. |
+| [Crisis Commander](https://github.com/IndraTensei/crisis-commander) | Simulation / Productivity | Turn-based crisis management simulation. Allocate resources, prioritize threats, and make high-stakes decisions as an Incident Commander under time pressure. |
+| [Alchemist's Workshop](https://github.com/IndraTensei/alchemist-workshop) | Creative / Simulation | An alchemical potion-brewing simulation. Discover recipes through experimentation, serve mysterious customers, and grow your workshop from dusty shop to legendary atelier. |
+| [Blind Bid Arena](https://github.com/IndraTensei/blind-bid-arena) | Game / Negotiation | A blind auction strategy game. Bid sealed coins on mystery items, bluff and outmaneuver a rival trader across five escalating rounds. |
+| [Night Market Negotiations](https://github.com/IndraTensei/night-market-negotiations) | Game / Fantasy Bartering | Haggle with three magical shopkeepers in a mystical bazaar. Charm, bluff, and trade secrets for legendary items with only 50 gold. |
+
 ## Categories
 
 - **Game** -- Interactive games agents can run (bluffing, deduction, word games, negotiation, etc.)
