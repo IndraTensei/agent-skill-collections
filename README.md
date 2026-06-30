@@ -25,7 +25,8 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | [Crisis Commander](https://github.com/IndraTensei/crisis-commander) | Simulation / Productivity | Turn-based crisis management simulation. Allocate resources, prioritize threats, and make high-stakes decisions as an Incident Commander under time pressure. |
 | [Alchemist's Workshop](https://github.com/IndraTensei/alchemist-workshop) | Creative / Simulation | An alchemical potion-brewing simulation. Discover recipes through experimentation, serve mysterious customers, and grow your workshop from dusty shop to legendary atelier. |
 | [Blind Bid Arena](https://github.com/IndraTensei/blind-bid-arena) | Game / Negotiation | A blind auction strategy game. Bid sealed coins on mystery items, bluff and outmaneuver a rival trader across five escalating rounds. |
-| [Night Market Negotiations](https://github.com/IndraTensei/night-market-negotiations) | Game / Fantasy Bartering | Haggle with three magical shopkeepers in a mystical bazaar. Charm, bluff, and trade secrets for legendary items with only 50 gold. |
+|| [Night Market Negotiations](https://github.com/IndraTensei/night-market-negotiations) | Game / Fantasy Bartering | Haggle with three magical shopkeepers in a mystical bazaar. Charm, bluff, and trade secrets for legendary items with only 50 gold. |
+|| [Devil's Advocate Engine](https://github.com/IndraTensei/devils-advocate-engine) | Utility / Decision Tool | CLI-style decision stress-testing tool. Systematically argues against every option through risk, cost, timing, worst-case, opportunity cost, and bias angles. Get a scored verdict. |
 
 ## Categories
 
