@@ -27,6 +27,7 @@ Every skill follows the standard [Hermes Agent skill format](https://hermes-agen
 | [Blind Bid Arena](https://github.com/IndraTensei/blind-bid-arena) | Game / Negotiation | A blind auction strategy game. Bid sealed coins on mystery items, bluff and outmaneuver a rival trader across five escalating rounds. |
 || [Night Market Negotiations](https://github.com/IndraTensei/night-market-negotiations) | Game / Fantasy Bartering | Haggle with three magical shopkeepers in a mystical bazaar. Charm, bluff, and trade secrets for legendary items with only 50 gold. |
 || [Devil's Advocate Engine](https://github.com/IndraTensei/devils-advocate-engine) | Utility / Decision Tool | CLI-style decision stress-testing tool. Systematically argues against every option through risk, cost, timing, worst-case, opportunity cost, and bias angles. Get a scored verdict. |
+| [RPG Habit Quest](https://github.com/IndraTensei/rpg-habit-quest) | Productivity / RPG | Gamified RPG-style habit tracker that turns daily tasks into character quests with XP, levels, and virtual loot. |
 
 ## Categories
 
